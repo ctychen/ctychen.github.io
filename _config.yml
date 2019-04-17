@@ -1,32 +1,32 @@
 # Site
-title:              RandomlyGeneratedNoise
-bio:                'Projects & experiments by CT Chen
-description:        "Electronics, code and robotics stuff"
-reading_time:       false
-words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://the-null-terminator.github.io
+title: RandomlyGeneratedNoise
+bio: 'Projects & experiments by CT Chen
+description: "Electronics, code and robotics stuff"
+reading_time: false
+words_per_minute: 200
+logo: 'assets/img/logo.png'
+background: 'assets/img/placeholder-big.jpg'
+tiled_bg: false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale: en_US
+url: https://the-null-terminator.github.io
 
 # Jekyll
-permalink:          https://the-null-terminator.github.io
-markdown:           kramdown
-highlighter:        rouge
+permalink: https://the-null-terminator.github.io
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+  sass_dir: _sass
+  style: compressed
 
 # Comments
-disqus_shortname:   ctchen
+disqus_shortname: ctchen
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,15 +37,15 @@ disqus_shortname:   ctchen
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              ctianyich@gmail.com
+email: ctianyich@gmail.com
 #twitter:            username
 #facebook:           username
-github-url:         the-null-terminator
+github-url: the-null-terminator
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
-reddit:             the_null_terminator
+reddit: the_null_terminator
 #xing:              username
-instagram:          tovarisch_koba
+instagram: tovarisch_koba
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'

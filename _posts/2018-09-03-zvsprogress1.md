@@ -3,7 +3,7 @@ layout: post
 title:  "ZVS Part 1"
 date:   2018-09-03
 excerpt: "Everyone's favorite flyback driver"
-project: true
+project: false
 tag:
 - electronics
 - hv

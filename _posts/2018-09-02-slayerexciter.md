@@ -3,7 +3,6 @@ layout: post
 title:  "Slayer Exciter AKA 'The Noob's Tesla Coil'"
 date:   2018-09-02
 excerpt: "Quick n' easy tutorial"
-project: false
 tag:
 - electronics
 - hv

@@ -35,12 +35,11 @@ This is what the algorithm is doing (image from P. Sanjeevikumar):
 ![what this looks like mathematically](https://www.researchgate.net/profile/P_Sanjeevikumar/publication/319714221/figure/fig6/AS:631663394578442@1527611697713/Illustration-of-Pure-Pursuit-algorithm-principle-Knowing-the-current-robot-location-and.png)
 
 
-## Details about this implementation
+## Implementation details - things to have
 - lookaheadDistance is how far along the path we should "pursue"
 - maxVel and maxAccel are in inches/s and inches/s^2 respectively.
-- maxVelk is proportional to how fast we turn
+- maxVelk is proportional to how fast you turn
 - Feedback is supported, where kP should be around 0.001. With a higher kP, we can better compensate for being off the targeted velocity, but be aware that too large of a kP will cause oscillations
-- To smooth out the paths, a = 1-b and both a and b should be between 0 and 1. Ideally b should fall in the 0.7-0.9 range. The higher the b value, the smoother the path.
 - Spacing is the distance between points along the path: the path generator will inject points along the coordinates you specify, at the given spacing.
 - Tolerance is the maximum change for each "smoothing" operation. If tolerance is exceeded, the smoothing algorithm runs again, continuing until the change in the path is below the tolerance. If tolerance is too low, the smoothing might never converge, so try raising the tolerance if this occurs.
 

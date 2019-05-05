@@ -3,7 +3,6 @@ layout: post
 title:  "Quick Intro to Pure Pursuit"
 date:   2019-05-01
 excerpt: "Path tracking and motion"
-project: false
 tag:
 - code
 - robotics

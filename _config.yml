@@ -8,7 +8,7 @@ logo: assets/img/logo.png
 background: assets/img/placeholder-big.JPG
 tiled_bg: false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://the-null-terminator.github.io
+url: https://ctychen.github.io
 
 # Jekyll
 permalink: 
@@ -40,12 +40,12 @@ disqus_shortname: ctchen
 email: ctianyich@gmail.com
 #twitter:            username
 #facebook:           username
-github-url: the-null-terminator
+github-url: ctychen
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 reddit: the_null_terminator
 #xing:              username
-instagram: tovarisch_koba
+instagram: chen.t.c.
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'

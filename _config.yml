@@ -4,7 +4,7 @@ bio: 'Projects & experiments by CT Chen'
 description: "Electronics, code and robotics stuff"
 reading_time: false
 words_per_minute: 200
-logo: assets/img/logo.png
+logo: assets/images/me.png
 background: assets/img/bg.jpg
 tiled_bg: false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
@@ -45,7 +45,7 @@ github-url: ctychen
 #linkedin:          username
 #xing:              username
 instagram: chen.t.c
-#lastfm:            username
+#lastfm:            usernamey
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username

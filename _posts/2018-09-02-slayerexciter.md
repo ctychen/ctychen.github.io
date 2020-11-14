@@ -45,7 +45,7 @@ Step 1: Wrap magnet wire around a PVC pipe (250-500 turns).
 
 Step 2: Wrap the normal wire 3 times around the pipe. This is the primary.
 
-Step3: Connect the components as shown in the circuit diagram on the following page. IMPORTANT: YOU MUST WIRE THE LED WITH THE ANODE (Positive/long side) CONNECTED TO GROUND. FAILURE TO DO SO MAY FRY YOUR LED (and/or your face) !!! 
+Step3: Connect the components as shown in the circuit diagram on the following page. IMPORTANT: YOU MUST WIRE THE LED WITH THE ANODE (Positive/long side) CONNECTED TO GROUND. FAILURE TO DO SO MAY FRY YOUR LED (and/or your face) !!!
 
 Step 4: Connect your battery and put the CFL/CCFL/Neon bulb next to the end of the secondary which is sticking out of the top of your PVC pipe. It should light up. If it doesn’t, swap the connections of your primary coil and it should work. Your LED should also light up. Warning: CFLs and CCFLs contain mercury. Don’t break it!
 

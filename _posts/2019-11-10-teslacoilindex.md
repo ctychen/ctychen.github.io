@@ -12,16 +12,16 @@ explore different kinds of Tesla coil designs, ranging from the classic spark ga
   resonant) circuits, and vacuum-tube-based designs. I'm currently working on a bigger VTTC with a Soviet GU-81 tube,
   getting a musical Tesla coil operational, and hopefully making a QCW coil someday.</p>
 
-</br>
+<p></p>
 
 <h3>Here are all my latest projects:<h3>
 
-</br>
+<p></p>
 
-[]()
+[811A Vacuum Tube Coil](https://ctychen.github.io/2019/11/19/vttc.html)
 
-</br>
+<p></p>
 
-[]()
+[Massive Spark Gap Coil]()
 
-</br>
+<p></p>

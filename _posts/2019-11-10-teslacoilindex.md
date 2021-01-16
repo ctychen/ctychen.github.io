@@ -14,7 +14,7 @@ explore different kinds of Tesla coil designs, ranging from the classic spark ga
 
 <p></p>
 
-<h3>Here are all my latest projects:<h3>
+<h3>Here are all my latest projects:</h3>
 
 <p></p>
 

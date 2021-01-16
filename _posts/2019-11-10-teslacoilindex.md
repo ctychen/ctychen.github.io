@@ -18,10 +18,10 @@ explore different kinds of Tesla coil designs, ranging from the classic spark ga
 
 <p></p>
 
-[811A Vacuum Tube Coil](https://ctychen.github.io/2019/11/19/vttc.html)
+<a href="https://ctychen.github.io/2019/11/19/vttc.html">811A Vacuum Tube Coil</a>
 
 <p></p>
 
-[Massive Spark Gap Coil]()
+<a href="https://ctychen.github.io/2019/11/19/vttc.html">Massive Spark Gap Coil</a>
 
 <p></p>

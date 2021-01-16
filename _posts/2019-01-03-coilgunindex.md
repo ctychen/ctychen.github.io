@@ -15,10 +15,10 @@ layout: post
 
 <p></p>
 
-<a href="https://ctychen.github.io/2019/11/19/vttc.html">811A Vacuum Tube Coil</a>
+<a href="https://ctychen.github.io/2019/01/03/coilgunv1.html">Single-Stage Coilgun (Coilgun 1.0)</a>
 
 <p></p>
 
-<a href="https://ctychen.github.io/2019/11/19/vttc.html">Massive Spark Gap Coil</a>
+<a href="https://ctychen.github.io/2019/01/03/coilgunv2_launcher.html">The Launcher (Coilgun 2.0)</a>
 
 <p></p>

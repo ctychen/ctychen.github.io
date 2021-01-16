@@ -696,7 +696,8 @@
 
 	#banner
 	{
-		background: #CCE8F4 url('images/pic01.png');
+		/* background: #CCE8F4 url("https://lh3.googleusercontent.com/-hSUXJA3GrlI/YALOaWyQDVI/AAAAAAACqcY/bI2_Ecf0WzoCCEV4ljGkpsEsPtBzA-48ACK8BGAsYHg/s0/2021-01-16.png"); */
+		background-image: url("https://lh3.googleusercontent.com/-hSUXJA3GrlI/YALOaWyQDVI/AAAAAAACqcY/bI2_Ecf0WzoCCEV4ljGkpsEsPtBzA-48ACK8BGAsYHg/s0/2021-01-16.png");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;

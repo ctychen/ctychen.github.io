@@ -107,25 +107,30 @@ Started with this...
 
 ![design](https://github.com/the-null-terminator/GIF-Chatbot/blob/gh-pages/img/portfolio/design.PNG?raw=true)
 
-![](https://i.imgur.com/ahGKXkg.jpg)
+<!-- ![](https://i.imgur.com/ahGKXkg.jpg) -->
+<img src="https://i.imgur.com/ahGKXkg.jpg" width="500"/>
 
-![](https://fancy.lerdorf.com/wp-content/uploads/2019/06/61478075_2398156113574534_6942451769377030144_n-1024x768.jpg)
+<!-- ![](https://fancy.lerdorf.com/wp-content/uploads/2019/06/61478075_2398156113574534_6942451769377030144_n-1024x768.jpg) -->
 
-![](https://i.imgur.com/3j5uUNI.jpg)
+<img src="https://fancy.lerdorf.com/wp-content/uploads/2019/06/61478075_2398156113574534_6942451769377030144_n-1024x768.jpg" width="500"/>
 
-![](https://i.imgur.com/4FmM2aq.jpg)
+<img src="https://i.imgur.com/3j5uUNI.jpg" width="500"/>
 
-![](https://fancy.lerdorf.com/wp-content/uploads/2019/06/61649198_1369844023163798_2344093330821873664_n-1024x768.jpg)
+<!-- ![](https://i.imgur.com/3j5uUNI.jpg) -->
 
-![](https://fancy.lerdorf.com/wp-content/uploads/2019/06/61381785_436487023805332_7927540108268404736_n.jpg)
+<img src="https://i.imgur.com/4FmM2aq.jpg" width="500"/>
 
-![](https://i.imgur.com/1YyXSW4.jpg)
+<img src="https://fancy.lerdorf.com/wp-content/uploads/2019/06/61649198_1369844023163798_2344093330821873664_n-1024x768.jpg" width="500"/>
 
-![](https://i.imgur.com/HVwiOCq.jpg)
+<img src="https://fancy.lerdorf.com/wp-content/uploads/2019/06/61381785_436487023805332_7927540108268404736_n.jpg" width="500"/>
 
-![](https://i.imgur.com/7pnYH0N.jpg)
+<img src="https://i.imgur.com/1YyXSW4.jpg" width="500"/>
 
-![](https://i.imgur.com/fn8sVAn.jpg)
+<img src="https://i.imgur.com/HVwiOCq.jpg" width="500"/>
+
+<img src="https://i.imgur.com/7pnYH0N.jpg" width="500"/>
+
+<img src="https://i.imgur.com/fn8sVAn.jpg" width="500"/>
 
 
 

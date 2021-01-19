@@ -2,3 +2,14 @@ name: Randomly Generated Noise
 description: CT Chen's Fancy Projects
 paginate: 10
 baseurl: '' # '/DopeTrope-Jekyll-Theme'
+
+
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false

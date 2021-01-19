@@ -139,16 +139,16 @@ Started with this...
 Software version:
 
 
-![finished](https://github.com/the-null-terminator/GIF-Chatbot/blob/gh-pages/img/portfolio/ui1.PNG?raw=true)
-
+<!-- ![finished](https://github.com/the-null-terminator/GIF-Chatbot/blob/gh-pages/img/portfolio/ui1.PNG?raw=true) -->
+<img src="https://github.com/the-null-terminator/GIF-Chatbot/blob/gh-pages/img/portfolio/ui1.PNG?raw=true" width="500"/>
 
 With this version, the user can interact via text input or by using the /record command and then talking. Either way, if the user's input
 is 2 words or less in length, a relevant GIF will be displayed as seen in the screenshot above. For longer responses, we apply sentiment
 analysis, and a relevant GIF will be found based on the result of the analysis (although sometimes we do get ... interesting results
 as can be seen below...)
 
-![sentiment](https://github.com/the-null-terminator/GIF-Chatbot/blob/gh-pages/img/portfolio/ui2.PNG?raw=true)
-
+<!-- ![sentiment](https://github.com/the-null-terminator/GIF-Chatbot/blob/gh-pages/img/portfolio/ui2.PNG?raw=true) -->
+<img src="https://github.com/the-null-terminator/GIF-Chatbot/blob/gh-pages/img/portfolio/ui2.PNG?raw=true" width="500"/>
 
 We used the Tenor API to get GIFs; getting that working wasn't too hard as a JSON file with links to GIFs
 would be returned for each search query and from there it was just parsing. In order to make looking for images more efficient,

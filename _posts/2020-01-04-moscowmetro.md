@@ -1,6 +1,6 @@
 ---
 title:  Exploring Moscow's Metro
-featured: /assets/images/cw/cwcover.jpg
+featured: /assets/images/moscow/mayakovskaya.jpg
 layout: post
 ---
 

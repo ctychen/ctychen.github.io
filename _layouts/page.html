@@ -7,7 +7,7 @@ layout: compress
 {% include head.html %}
 <body id="posts" class="inner-post-page">
 
-    <div class="block-left">
+    {% comment %} <div class="block-left">
       <div class="content">
         <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo }}"></a>
         <div class="post-title-section">
@@ -23,13 +23,13 @@ layout: compress
           <div class="section-line reverse"><a href="{{ site.url}}/posts">Back to posts</a> <em>/</em></div>
         </div>
       </div>
-    </div>
+    </div> {% endcomment %}
 
-    <div class="block-right">
+    <div class="block-left">
       <div class="share-buttons">
         {% include share.html %}
       </div>
-      <a href="../posts.html" title="posts" class="posts-menu-icon"></a>
+      {% comment %} <a href="../posts.html" title="posts" class="posts-menu-icon"></a> {% endcomment %}
       <a title="projects" class="projects-menu-icon">
         <span></span>
       </a>
@@ -41,6 +41,25 @@ layout: compress
         {% include page-pagination.html %}
       </div>
     </div>
+
+    <div class="block-right">
+      <div class="share-buttons">
+        {% include share.html %}
+      </div>
+      {% comment %} <a href="../posts.html" title="posts" class="posts-menu-icon"></a> {% endcomment %}
+      <a title="research" class="projects-menu-icon">
+        <span></span>
+      </a>
+      <div class="inner-post content">
+        <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
+        {{ content }}
+        <br>
+        {% include share.html %}
+        {% include page-pagination.html %}
+      </div>
+    </div>
+
+
     {% include scripts.html %}
     {% include overlay.html %}
 </body>

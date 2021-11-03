@@ -9,8 +9,6 @@ src="/images/profile_1.png">
 (that's me)
 </p>
 
-## Who am I?
-
 
 
 I'm an undergrad studying Astrophysics at UC Berkeley. I'm interested in arts, science, and

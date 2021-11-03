@@ -5,6 +5,8 @@ sitemap: true
 permalink: /big_sgtc.html
 ---
 
+<img src="/images/posts/sgtc/Big SGTC.jpg" width="600"/>
+
 Yup, that’s me standing next to the secondary coil for reference. This is a project I’ve been working on with a friend (David, UCLA class of ‘24) on-and-off since Fall 2019: to build the biggest and best Tesla coil, with a few criteria attached: 1) we need to be able to run it safely in my backyard, and 2) we want to be able to do it under $200. This coil, unlike the VTTC, uses a rotary spark gap as the switch to “drive” the circuit and excite oscillations. For building something of this scale, operating on high voltages and currents, challenges appeared when usually small effects came into play, and we had to be really careful with both the materials we used and how we constructed the device. We’ve paused progress due to COVID, but as it stands, we have the majority of the system assembled, we still need to prepare a proper grounding rod, and, after the system’s complete, we’ll start testing and tuning it slowly and carefully, and I’m hoping we’ll get to see first light in 2021.
 
 

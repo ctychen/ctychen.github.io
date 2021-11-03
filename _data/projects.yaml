@@ -3,9 +3,9 @@
   image: "/images/posts/sgtc/bigbigsgtc.jpg"
   completed: true
 
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: Vacuum Tube Tesla Coil 1
+  url: https://ctychen.github.io/vttc1.html 
+  image: "/images/posts/vttc/vttcspinner.gif"
   completed: true
 
 - title: Ramme Jekyll Theme

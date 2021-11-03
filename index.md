@@ -1,6 +1,14 @@
 ---
 layout: home
 ---
+
+<img style="display: block; margin: auto;"
+src="/images/profile_1.png">
+
+<p style="text-align: center;">
+(that's me)
+</p>
+
 # Who am I?
 
 I'm an undergrad studying Astrophysics at UC Berkeley. I'm interested in arts, science, and

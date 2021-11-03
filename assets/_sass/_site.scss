@@ -140,7 +140,9 @@ canvas {
 }
 
 .posts-link,
-.projects-link {
+.projects-link,
+.art-link,
+.research-link {
   position: absolute;
   top: 73px;
   font-size: 12px;
@@ -153,6 +155,14 @@ canvas {
 
 .projects-link {
   right: 20px;
+}
+
+.art-link {
+  right: 160px
+}
+
+.research-link {
+  right: 230px
 }
 
 .overlay {

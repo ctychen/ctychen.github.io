@@ -2,10 +2,12 @@
 layout: home
 ---
 
+<p style="text-align: center;">
 (that's me)
+</p>
 
 <img style="display: block; margin: auto;"
-src="/images/profile_1.png" height="250">
+src="/images/profile_1.png" height="200">
 
 
 I'm an undergrad studying Astrophysics at UC Berkeley. I'm interested in arts, science, and

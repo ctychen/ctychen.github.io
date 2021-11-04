@@ -18,12 +18,27 @@
   image: "/images/posts/minibots/mbbuild4.jpg"
   completed: true
 
+- title: 'Team 670 2020: HIGH NOON'
+  url: https://ctychen.github.io/frc2020.html
+  image: "/images/posts/robotics/2020/utah.JPG"
+  completed: true
+
+- title: 'Team 670 2019: THE FLEX'
+  url: https://ctychen.github.io/frc2019.html
+  image: "/images/posts/robotics/2019/utah1_2.jpg"
+  completed: true
+
+- title: GIF Chatbot
+  url: https://ctychen.github.io/gifchatbot.html
+  image:  https://i.imgur.com/3j5uUNI.jpg
+  completed: true
+
 - title: Block Icon Theme
   url: https://github.com/TaylanTatli/Block-Icon-Theme
   image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
   completed: false
 
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
+- title: SLR Inverter
+  url: https://ctychen.github.io/slr.html
+  image: https://i.imgur.com/NJhMcnS.gif
+  completed: true

@@ -1,0 +1,64 @@
+---
+layout: page
+title: An Attempt at a SLR Inverter
+sitemap: true
+permalink: /slr.html
+---
+
+This thing scares me just a bit...Okay, maybe more than just a bit.
+
+
+After a lot of troubleshooting, we finally have a working version of this switching converter.
+It uses a transformer from a microwave, but I can only run it off 50VAC because if I go any higher,
+it arcs over the safety gap (this thing is only designed for 2kV) and it spits steel sparks all over the place.
+
+
+Here is the supply in action:
+
+
+<img src="https://i.imgur.com/NJhMcnS.gif" width="600"/>
+
+
+Here is our circuit:
+
+
+<img src="https://i.imgur.com/3uXjzXk_d.jpg?maxwidth=640&shape=thumb&fidelity=medium" width="600"/>
+
+
+Here's what it looks like now:
+
+
+<img src="https://i.imgur.com/dp0ewgm.jpg" width="600"/>
+
+
+It took a while to get this up and running. Early on, we used a TV flyback transformer.
+My inverter seems to have killed the flyback. It seemed like I need a better core (and maybe a transformer without a diode)
+because this one seems to be saturating (the circuit pulls 25A at its peak). [It basically looked like this on a scope.](https://drive.google.com/file/d/1AbFsYL2S1g6T4ocAmJqFsZ2wSnwi78PV/view)
+
+
+After switching to the microwave transformer, the waveform now looks like [this](https://drive.google.com/file/d/1zD6nBPIWLOPSg2tF4rbqcjFYq1J_4ZUv/view) when shorted.
+[A video of it working can be found here.](https://drive.google.com/file/d/13xBCghZ-KAYCWRrFQGQr4C6R0ANFRfDI/view)
+
+
+A closeup of the transformer and capacitor bank:
+
+
+<img src="https://i.imgur.com/qUbKiyA.jpg" width="600"/>
+
+
+Lots of big transistors need lots of big heatsinks:
+
+
+<img src="https://i.imgur.com/FiUxVVg.jpg" width="600"/>
+
+
+<img src="https://i.imgur.com/QO7PE6j.jpg" width="600"/>
+
+
+<img src="https://i.imgur.com/HW6PJ7Z.jpg" width="600"/>
+
+
+The small steel rod we put on the output has completely melted after a few minutes of running:
+
+
+<img src="https://i.imgur.com/z9m3LBv.jpg" width="600"/>

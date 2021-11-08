@@ -1,3 +1,4 @@
+---
 layout: page
 title: Load Cell Amplifier PCB
 sitemap: true

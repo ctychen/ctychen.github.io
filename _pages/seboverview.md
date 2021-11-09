@@ -14,7 +14,7 @@ I work on avionics, and here are some of the electronics projects I've done for 
 
 I also do some graphics design for SEB:
 
-<img src="/images/posts/seb/E1_Patch_V3.png" width="600"/>
+<img src="/images/posts/seb/E1_Patch_V5.png" width="600"/>
 
 ### SEB Highlights
 

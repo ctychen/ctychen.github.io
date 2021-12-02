@@ -7,6 +7,8 @@ permalink: /commissions.html
 
 ## Basic info
 
+- Contact/inquiries: [Twitter](https://twitter.com/ct_ych), [email](mailto:ctianyich@gmail.com), [Instagram](https://instagram.com/ctych.draws), Discord @ahighvoltageboi#9579
+
 - I'm a full-time university student currently working in research as well. With that in mind, while I will 
 try to respond and get art to you ASAP, it usually takes me 2-4 weeks, occasionally more, to finish a piece. 
 

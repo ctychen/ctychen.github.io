@@ -3,7 +3,6 @@ layout: page
 title:  Art Commissions!
 sitemap: true
 permalink: /commissions.html
-image: "/images/art_examples/130/Lucien_Vess_Left_Final.jpg"
 ---
 
 ## Basic info

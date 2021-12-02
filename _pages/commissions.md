@@ -71,7 +71,7 @@ try to respond and get art to you ASAP, it usually takes me 2-4 weeks, occasiona
 - Half body + scene/background: $65
 
 <img src="/images/art_examples/portrait/half/Einma.jpg" width="600"/>
-<img src="/images/art_examples/portrait/half/Laudna.jpg" width="600"/>
+<img src="/images/art_examples/portrait/half/laudna.jpg" width="600"/>
 
 ### Full body
 
@@ -86,5 +86,5 @@ try to respond and get art to you ASAP, it usually takes me 2-4 weeks, occasiona
 - Extra characters: + 25% of original price per additional character
 - Ask about prices for more stylized pieces (see examples below)
 
-<img src="/images/art_examples/portrait/half/Einma.jpg" width="600"/>
+<img src="/images/art_examples/portrait/half/cad_poster.png" width="600"/>
 <img src="/images/art_examples/portrait/full/test36.png" width="600"/>

@@ -70,21 +70,21 @@ try to respond and get art to you ASAP, it usually takes me 2-4 weeks, occasiona
 - Half body: $50
 - Half body + scene/background: $65
 
-<img src="/images/portrait/half/Einma.jpg" width="600"/>
-<img src="/images/portrait/half/Laudna.jpg" width="600"/>
+<img src="/images/art_examples/portrait/half/Einma.jpg" width="600"/>
+<img src="/images/art_examples/portrait/half/Laudna.jpg" width="600"/>
 
 ### Full body
 
 - Full body: $70
 - Full body + scene/complex background: $90
 
-<img src="/images/portrait/full/Solaralith.jpg" width="600"/>
-<img src="/images/portrait/full/Ezra_Final.jpg" width="600"/>
+<img src="/images/art_examples/portrait/full/Solaralith.jpg" width="600"/>
+<img src="/images/art_examples/portrait/full/Ezra_Final.jpg" width="600"/>
 
 ### Options
 
 - Extra characters: + 25% of original price per additional character
 - Ask about prices for more stylized pieces (see examples below)
 
-<img src="/images/portrait/half/Einma.jpg" width="600"/>
-<img src="/images/portrait/full/test36.png" width="600"/>
+<img src="/images/art_examples/portrait/half/Einma.jpg" width="600"/>
+<img src="/images/art_examples/portrait/full/test36.png" width="600"/>

@@ -70,8 +70,8 @@ try to respond and get art to you ASAP, it usually takes me 2-4 weeks, occasiona
 - Half body: $50
 - Half body + scene/background: $65
 
-<img src="/images/art_examples/portrait/half/Einma.jpg" width="600"/>
 <img src="/images/art_examples/portrait/half/laudna.jpg" width="600"/>
+<img src="/images/art_examples/portrait/half/Einma.jpg" width="600"/>
 
 ### Full body
 

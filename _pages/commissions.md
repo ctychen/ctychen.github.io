@@ -28,8 +28,7 @@ try to respond and get art to you ASAP, it usually takes me 2-4 weeks, occasiona
 
 \*(If unsure, feel free to ask!)\*
 
-- Shipping (depends)*
-- Suggestive content (depends)*
+- Explicit content (suggestive I may do, but depends)
 - Extreme gore
 - Furry/anthro
 

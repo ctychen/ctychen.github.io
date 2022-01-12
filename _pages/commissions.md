@@ -102,3 +102,4 @@ Full body ($70+) examples:
 
 <img src="/images/art_examples/portrait/half/cad_poster.png" width="600"/>
 <img src="/images/art_examples/portrait/full/test36.png" width="600"/>
+<img src="/images/art_examples/portrait/full/butterfly.jpg" width="600"/>

@@ -82,7 +82,6 @@ Other portrait examples ($50+):
 
 <img src="/images/art_examples/portrait/half/Kerzik.jpg" width="600"/>
 <img src="/images/art_examples/portrait/half/laudna.jpg" width="600"/>
-<img src="/images/art_examples/portrait/half/Einma.jpg" width="600"/>
 
 ### Full body
 

@@ -35,6 +35,7 @@ try to respond and get art to you ASAP, it usually takes me 2-4 weeks, occasiona
 
 ## RATES
 
+** open to change/adjustment - feel free to ask ** 
 
 ## Landscapes, Scenes, & Posters (Fully rendered)
 
@@ -85,7 +86,7 @@ try to respond and get art to you ASAP, it usually takes me 2-4 weeks, occasiona
 
 ### Options
 
-- Extra characters: + 25% of original price per additional character
+- Extra characters: + 50% of original price per additional character
 - Ask about prices for more stylized pieces (see examples below)
 
 <img src="/images/art_examples/portrait/half/cad_poster.png" width="600"/>

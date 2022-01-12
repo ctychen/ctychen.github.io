@@ -61,6 +61,7 @@ try to respond and get art to you ASAP, it usually takes me 2-4 weeks, occasiona
 
 ### $150-range
 
+<img src="/images/art_examples/150/Aeor.jpg" width="600"/>
 <img src="/images/art_examples/150/Dream.jpg" width="600"/>
 
 
@@ -73,6 +74,13 @@ try to respond and get art to you ASAP, it usually takes me 2-4 weeks, occasiona
 - Half body: $50
 - Half body + scene/background: $65
 
+Example of more complex portrait ($65+):
+
+<img src="/images/art_examples/portrait/half/Doolan_Tversky.jpg" width="600"/>
+
+Other portrait examples ($50+): 
+
+<img src="/images/art_examples/portrait/half/Kerzik.jpg" width="600"/>
 <img src="/images/art_examples/portrait/half/laudna.jpg" width="600"/>
 <img src="/images/art_examples/portrait/half/Einma.jpg" width="600"/>
 
@@ -81,8 +89,11 @@ try to respond and get art to you ASAP, it usually takes me 2-4 weeks, occasiona
 - Full body: $70
 - Full body + scene/complex background: $90
 
+Full body ($70+) examples:
+
 <img src="/images/art_examples/portrait/full/Solaralith.jpg" width="600"/>
 <img src="/images/art_examples/portrait/full/Ezra_Final.jpg" width="600"/>
+<img src="/images/art_examples/portrait/full/Host_Final.jpg" width="600"/>
 
 ### Options
 

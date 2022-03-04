@@ -1,7 +1,13 @@
-- title: Space Enterprise @ Berkeley
-  url: https://ctychen.github.io/seb.html 
-  image: "/images/posts/seb/hotfire3/hf2a.jpg"
+- title: Space Enterprise @ Berkeley Avionics
+  url: https://ctychen.github.io/sebavi.html 
+  image: "/images/posts/seb/e1ext/31.PNG"
   completed: true
+
+- title: Space Enterprise @ Berkeley Art & Design
+  url: https://ctychen.github.io/sebgraphics.html 
+  image: "/images/posts/seb/hotfire5/5.png"
+  completed: true
+
 
 - title: Massive Spark Gap Tesla Coil
   url: https://ctychen.github.io/big_sgtc.html 

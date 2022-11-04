@@ -21,7 +21,7 @@ dabbled with PCB design in the past, my first experiences designing PCBs for big
 
 **Click on the images below to see more about each project!**
 
-#### E-1 Extension Board (v1, v2, ...)
+<!-- #### E-1 Extension Board (v1, v2, ...)
 
 Everything you need to control valves and actuators for our liquid rocket engine. Stacks with our general flight computer
 
@@ -29,29 +29,29 @@ Everything you need to control valves and actuators for our liquid rocket engine
   <img src="/images/posts/seb/e1ext/pcbv2.png" alt="E-1 Board">
 </a>
 
-#### LAD-5 
+#### LAD-5  -->
 
-Avionics and integration for Low Altitude Demonstrator vehicle.
+<!-- Avionics and integration for Low Altitude Demonstrator vehicle.
 
 <a href="https://ctychen.github.io/lad5.html">
   <img src="/images/posts/seb/lad/lad5_1.png" alt="LAD5">
-</a>
+</a> -->
 
-#### DAQ V2
+<!-- #### DAQ V2
 
 Part of our ground station, this board handles reading sensors that aren't onboard the rocket. 
 
 <a href="https://ctychen.github.io/daqv2.html">
   <img src="/images/posts/seb/daq2/pcb1.png" alt="DAQ Board V2">
-</a>
+</a> -->
 
-#### Load Cell Amplifier
+<!-- #### Load Cell Amplifier
 
 First thing I ever made with Altium Designer, let's just say that there was a lot of room for improvement.
 
 <a href="https://ctychen.github.io/lcamp.html">
   <img src="/images/posts/seb/lcamp/pcb.png" alt="Load Cell Amplifier">
-</a>
+</a> -->
 
 
 

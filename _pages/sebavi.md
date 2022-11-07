@@ -21,15 +21,19 @@ dabbled with PCB design in the past, my first experiences designing PCBs for big
 
 **Click on the images below to see more about each project!**
 
-<!-- #### E-1 Extension Board (v1, v2, ...)
+#### Flight Computer v3 & E-1 Extension PCBs
 
-Everything you need to control valves and actuators for our liquid rocket engine. Stacks with our general flight computer
+The flight computer stack for Eureka-1, our first liquid bipropellant rocket. 
 
-<a href="https://ctychen.github.io/e1ext.html">
-  <img src="/images/posts/seb/e1ext/pcbv2.png" alt="E-1 Board">
+<a href="https://ctychen.github.io/e1fc.html">
+  <img src="/images/posts/seb/e1av/stack.jpg" alt="E-1 Board">
 </a>
 
-#### LAD-5  -->
+<img src="/images/posts/seb/e1av/ab2.jpg" alt="E-1 Board">
+
+<img src="/images/posts/seb/e1av/e11.jpg" alt="E-1 Board">
+
+<!-- #### LAD-5  --> -->
 
 <!-- Avionics and integration for Low Altitude Demonstrator vehicle.
 

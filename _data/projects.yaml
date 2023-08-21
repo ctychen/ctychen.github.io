@@ -1,10 +1,20 @@
 - title: Pulsejets
-  url: #https://ctychen.github.io/pulsejets.html 
-  image: "/images/posts/pulsejets/"
+  url: https://ctychen.github.io/pulsejets.html 
+  image: "/images/posts/pulsejets/jet4.jpeg"
   completed: true
 
-- title: Space Enterprise @ Berkeley Avionics
-  url: https://ctychen.github.io/sebavi.html 
+- title: Eureka-2 Avionics
+  url: https://ctychen.github.io/sebavi_e2.html 
+  image: "/images/posts/seb/e1ext/31.PNG"
+  completed: true
+
+- title: Thrust Vector Control
+  url: https://ctychen.github.io/seb_tvc.html 
+  image: "/images/posts/seb/e1ext/31.PNG"
+  completed: true
+
+- title: Eureka-1 Avionics
+  url: https://ctychen.github.io/sebavi_e1.html 
   image: "/images/posts/seb/e1ext/31.PNG"
   completed: true
 

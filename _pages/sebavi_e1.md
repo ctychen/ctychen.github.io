@@ -6,6 +6,8 @@ permalink: /sebavi_e1.html
 image: 
 ---
 
+<img src="/images/posts/seb/gallery1.png">
+
 Space Enterprise @ Berkeley, aka SEB, is a rocketry team at UC Berkeley that aims to be the first collegiate team to send a liquid bi-propellant rocket past the Karman Line and into space. 
 
 

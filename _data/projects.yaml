@@ -1,3 +1,13 @@
+- title: Thrust Vector Control
+  url: https://ctychen.github.io/seb_tvc.html 
+  image: "/images/posts/seb/tvc/TVC_hotfire1.gif"
+  completed: true
+
+- title: Eureka-3 Avionics
+  url: https://ctychen.github.io/sebavi_e3.html 
+  image: "/images/posts/seb/e3/"
+  completed: true
+
 - title: Pulsejets
   url: https://ctychen.github.io/pulsejets.html 
   image: "/images/posts/pulsejets/jet4.jpeg"
@@ -5,12 +15,7 @@
 
 - title: Eureka-2 Avionics
   url: https://ctychen.github.io/sebavi_e2.html 
-  image: "/images/posts/seb/e1ext/31.PNG"
-  completed: true
-
-- title: Thrust Vector Control
-  url: https://ctychen.github.io/seb_tvc.html 
-  image: "/images/posts/seb/e1ext/31.PNG"
+  image: "/images/posts/seb/e2/"
   completed: true
 
 - title: Eureka-1 Avionics
@@ -18,10 +23,10 @@
   image: "/images/posts/seb/e1ext/31.PNG"
   completed: true
 
-- title: Space Enterprise @ Berkeley Art & Design
-  url: https://ctychen.github.io/sebgraphics.html 
-  image: "/images/posts/seb/hotfire5/5.png"
-  completed: true
+# - title: Space Enterprise @ Berkeley
+#   url: https://ctychen.github.io/sebgraphics.html 
+#   image: "/images/posts/seb/hotfire5/5.png"
+#   completed: true
 
 - title: Massive Spark Gap Tesla Coil
   url: https://ctychen.github.io/big_sgtc.html 

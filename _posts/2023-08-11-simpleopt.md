@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "simpleopt - exploring autonomous optimization of plasma-facing component design"
+title:  "simpleopt - exploring autonomous optimization of PFCs"
 date:   2023-08-11
 excerpt: "generative design for heat flux minimization"
 ---

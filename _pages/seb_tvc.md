@@ -6,6 +6,8 @@ permalink: /seb_tvc.html
 image: 
 ---
 
+<img src="/images/posts/seb/tvc/tvc.jpeg">
+
 How it started: 
 
 <img src="/images/posts/seb/tvc/TVC_supernode.gif">
@@ -20,7 +22,11 @@ I worked on the electronics and controls for thrust vector control over Spring 2
 
 The project was done for the Collegiate Propulsive Lander Challenge (CPLC); hitting the milestone of TVC-ing a 500+ lbf engine for 10+ s came with a very nice $15,000 and a giant check...which we literally burned through within a few hours of receiving it. 
 
-<img src="/images/posts/seb/tvc/Burn2_Drone.gif">
+<img src="/images/posts/seb/tvc/burn2_1.jpg">
+
+<img src="/images/posts/seb/tvc/burn2_2.jpg">
+
+<img src="/images/posts/seb/tvc/burn2_3.jpg">
 
 
 

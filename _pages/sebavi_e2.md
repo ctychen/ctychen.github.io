@@ -1,62 +1,33 @@
 ---
 layout: page
-title:  Space Enterprise @ Berkeley Avionics
+title:  Eureka-2 Avionics
 sitemap: true
 permalink: /sebavi_e2.html
 image: 
 ---
 
-Space Enterprise @ Berkeley, aka SEB, is a rocketry team at UC Berkeley that aims to be the first collegiate team to send a liquid bi-propellant rocket past the Karman Line and into space. 
+We build a full new avionics system to support testing of Eureka-2, in particular the set of boards we use for our Ground Support Equipment (GSE) were fully revamped. They now use the ESP32-S3 instead of Teensy 4.1s, but still support comms with Ethernet. 
+
+<img src="/images/posts/seb/e2/boards_e2.jpg">
+
+<img src="/images/posts/seb/e2/box_e2.jpg">
 
 
-(obligatory gallery:)
+Several hotfires:  
 
-<img src="/images/posts/seb/gallery1.png">
+<img src="/images/posts/seb/e2/controlroom.jpg">
 
+<img src="/images/posts/seb/e2/hotfire01.jpg">
 
-Here are some projects I've worked on as part of SEB avionics. Although I've 
-dabbled with PCB design in the past, my first experiences designing PCBs for big projects and production were here in SEB, and I learned to use Altium Designer and LTSpice over the course of my first semester. 
+<img src="/images/posts/seb/e2/hotfire02.jpg">
 
-## Highlights
+<img src="/images/posts/seb/e2/hotfire03.jpg">
 
-**Click on the images below to see more about each project!**
+<img src="/images/posts/seb/e2/hotfire04.jpg">
 
-#### Flight Computer v3 & E-1 Extension PCBs
+<img src="/images/posts/seb/e2/hotfire05.jpg">
 
-The flight computer stack for Eureka-1, our first liquid bipropellant rocket. 
+<img src="/images/posts/seb/e2/DSC_0192.jpg">
 
-<a href="https://ctychen.github.io/e1fc.html">
-  <img src="/images/posts/seb/e1av/stack.jpg" alt="E-1 Board">
-</a>
-
-<img src="/images/posts/seb/e1av/ab2.jpg" alt="E-1 Board">
-
-<img src="/images/posts/seb/e1av/e11.jpg" alt="E-1 Board">
-
-<!-- #### LAD-5  --> -->
-
-<!-- Avionics and integration for Low Altitude Demonstrator vehicle.
-
-<a href="https://ctychen.github.io/lad5.html">
-  <img src="/images/posts/seb/lad/lad5_1.png" alt="LAD5">
-</a> -->
-
-<!-- #### DAQ V2
-
-Part of our ground station, this board handles reading sensors that aren't onboard the rocket. 
-
-<a href="https://ctychen.github.io/daqv2.html">
-  <img src="/images/posts/seb/daq2/pcb1.png" alt="DAQ Board V2">
-</a> -->
-
-<!-- #### Load Cell Amplifier
-
-First thing I ever made with Altium Designer, let's just say that there was a lot of room for improvement.
-
-<a href="https://ctychen.github.io/lcamp.html">
-  <img src="/images/posts/seb/lcamp/pcb.png" alt="Load Cell Amplifier">
-</a> -->
-
-
-
+<img src="/images/posts/seb/e2/DSC_0190.jpg">
 

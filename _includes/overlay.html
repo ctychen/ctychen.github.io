@@ -14,6 +14,48 @@
             {% endunless %}
           </span>
         </a>
+      </li>
+    {% endfor %}
+  </ul>
+  <ul class="research-menu">
+    {% for item in site.data.research %}
+      {% capture image %}{{ item.image }}{% endcapture %}
+      {% unless image contains 'http://' or image contains 'https://' %}
+      {% capture image %}{{ site.url }}/{{ image }}{% endcapture %}
+      {% endunless %}
+      <li style="background:url({{ image }}) center center no-repeat;">
+        <a href="{{ item.url }}" {% unless item.completed %}class="inactive"{% endunless %} target="_blank" rel="nofollow external">
+          <span>
+            {{ item.title }}
+            {% unless item.completed %}
+            <br><em>in progress</em>
+            {% endunless %}
+          </span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+<!-- Rest of the page content goes here -->
+
+
+
+<!-- <div class="overlay">
+  <ul class="projects-menu">
+    {% for item in site.data.projects %}
+      {% capture image %}{{ item.image }}{% endcapture %}
+      {% unless image contains 'http://' or image contains 'https://' %}
+      {% capture image %}{{ site.url }}/{{ image }}{% endcapture %}
+      {% endunless %}
+      <li style="background:url({{ image }}) center center no-repeat;">
+        <a href="{{ item.url }}" {% unless item.completed %}class="inactive"{% endunless %} target="_blank" rel="nofollow external">
+          <span>
+            {{ item.title }}
+            {% unless item.completed %}
+            <br><em>in progress</em>
+            {% endunless %}
+          </span>
+        </a>
         </li>
     {% endfor %}
   </ul>
@@ -35,4 +77,4 @@
         </li>
     {% endfor %}
   </ul>
-</div>
+</div> -->
